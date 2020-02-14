@@ -80,7 +80,6 @@ int timeout = 0;
 /*////////////////////////////////////////////////
 
       cOSpAcE sImuLaToR jE aMaZinG aND wE lOVe iT
-Ta koda je mešanica med depresijo, monsterom in CBD čajem ;)
   Še sama nimava pojma kaj se dogaja tu, ampak deluje :D
 
 --------------------------------------------------
